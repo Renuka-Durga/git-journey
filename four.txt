@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 444
 four
+=======
+4
+four 4
+>>>>>>> staging
